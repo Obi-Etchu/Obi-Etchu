@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Obi Obi Etchu Jnr!
 
-<!--
-**Obi-Etchu/Obi-Etchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about building innovative solutions and diving deep into tech.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌟 Currently working on: Bible daily - Like doulingo, but for bible verses
+- 🔭 Exploring the MERN stack and Python and its frameworks and libraries
+- 🌱 Learning: Next.js, Tailwind CSS.
+- 💡 Fun Fact: I Like listening to music very much
+  
+## 🛠️ My Toolkit
+- **Frontend**:HTML,React, Tailwind CSS, Material UI
+- **Backend**: Node.js, Prisma, Express.js
+- **Database**: PostgreSQL, MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Let's Connect
+- 📫 Email: obi.junior@icloud.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/obi-junior-12246a342/
