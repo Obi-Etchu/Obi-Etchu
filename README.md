@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 - 🔭 Exploring the MERN stack and Python and its frameworks and libraries
 - 🌱 Learning: Next.js, Tailwind CSS.
 - 💡 Fun Fact: I Like listening to music very much
+- I'm very versatile and open to learning new technology
   
 ## 🛠️ My Toolkit
 - **Frontend**:HTML,React, Tailwind CSS, Material UI
