@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 - I'm very versatile and open to learning new technology
   
 ## 🛠️ My Toolkit
-- **Frontend**:HTML,React, Tailwind CSS, Material UI
-- **Backend**: Node.js, Prisma, Express.js
+- **Frontend**:HTML,React, Tailwind CSS, Material UI, Next.js
+- **Backend**: Node.js, Prisma, Express.js, Next.js
 - **Database**: PostgreSQL, MongoDB, MySQL
 
 ## 🔗 Let's Connect
